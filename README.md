@@ -8,7 +8,7 @@ This repository provides historical hydrological data from the Krishna River Bas
 * Stations: Wadenapally,Vijayawada
 * Basin: Krishna River Basin, India
 
-### Dataset Overview:
+### Dataset Overview
 
 
 This repository provides a historical hydrological dataset for the Krishna River Basin, containing daily observations from Vijayawada and Wadenapally.
