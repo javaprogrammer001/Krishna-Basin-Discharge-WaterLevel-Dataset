@@ -3,7 +3,7 @@
 
 This repository provides a historical hydrological dataset for the Krishna River Basin, containing daily observations from Vijayawada and Wadenapally.
 
-# Main Variables
+### Main Variables
 
 * River discharge 
 * Water level 
@@ -12,7 +12,7 @@ This repository provides a historical hydrological dataset for the Krishna River
 * June–May annual period
 
 
-# Temporal Coverage
+### Temporal Coverage
 
 * Start: 1984–1985 
 * End: 2023–2024 
