@@ -1,8 +1,8 @@
-### Study Location
+# Study Location
 
 Basin: Krishna River Basin, India
 
-## Dataset Overview:
+### Dataset Overview:
 
 
 This repository provides a historical hydrological dataset for the Krishna River Basin, containing daily observations from Vijayawada and Wadenapally.
