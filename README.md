@@ -1,4 +1,6 @@
-### Krishna-Basin-Discharge-WaterLevel-Dataset
+# Krishna-Basin-Discharge-WaterLevel-Dataset
+
+This repository provides historical hydrological data from the Krishna River Basin, covering the Vijayawada and Wadenapally locations.
 
 
 ### Study Location
