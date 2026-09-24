@@ -2,17 +2,19 @@ This repository provides a historical hydrological dataset for the Krishna River
 
 Main Variables
 
-River discharge
-Water level
-Day of observation
-Monthly observation period
+River discharge 
+Water level 
+Day of observation 
+Monthly observation period 
 June–May annual period
 
 
 Temporal Coverage
 
+Start: 1984–1985 
 
-Start: 1984–1985
-End: 2023–2024
+End: 2023–2024 
+
 Number of hydrological years: 40
+
 Monthly coverage: June to May
